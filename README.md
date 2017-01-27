@@ -6,6 +6,9 @@ Scripts
 
 * [Speed Control](./docs/SpeedControl.md)
 
+Quartz Patches
+
+* [Image Flip](./docs/images/imageflip.png)
 
 
 See [Figure53's documentation](http://figure53.com/docs/qlab/v4/scripting/applescript-dictionary-v4/) for more information.
