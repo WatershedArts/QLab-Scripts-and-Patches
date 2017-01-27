@@ -4,7 +4,7 @@ A set of Apple Scripts / Quartz Composer Patches that do a variety of tasks in a
 
 Scripts
 
-* Speed Control
+* [Speed Control](./docs/SpeedControl.md)
 
 
 
